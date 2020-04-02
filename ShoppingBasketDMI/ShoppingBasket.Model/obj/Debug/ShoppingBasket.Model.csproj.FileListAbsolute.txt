@@ -1,0 +1,10 @@
+D:\Archana\ShoppingBasket\ShoppingBasket.Model\bin\Debug\ShoppingBasket.Model.dll
+D:\Archana\ShoppingBasket\ShoppingBasket.Model\bin\Debug\ShoppingBasket.Model.pdb
+D:\Archana\ShoppingBasket\ShoppingBasket.Model\obj\Debug\ShoppingBasket.Model.dll
+D:\Archana\ShoppingBasket\ShoppingBasket.Model\obj\Debug\ShoppingBasket.Model.pdb
+D:\Archana\ShoppingBasket\ShoppingBasket.Model\obj\Debug\ShoppingBasket.Model.csprojAssemblyReference.cache
+D:\Archana\ShoppingBasket\ShoppingBasketDMI\ShoppingBasket.Model\bin\Debug\ShoppingBasket.Model.dll
+D:\Archana\ShoppingBasket\ShoppingBasketDMI\ShoppingBasket.Model\bin\Debug\ShoppingBasket.Model.pdb
+D:\Archana\ShoppingBasket\ShoppingBasketDMI\ShoppingBasket.Model\obj\Debug\ShoppingBasket.Model.csprojAssemblyReference.cache
+D:\Archana\ShoppingBasket\ShoppingBasketDMI\ShoppingBasket.Model\obj\Debug\ShoppingBasket.Model.dll
+D:\Archana\ShoppingBasket\ShoppingBasketDMI\ShoppingBasket.Model\obj\Debug\ShoppingBasket.Model.pdb
